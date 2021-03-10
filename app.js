@@ -1,5 +1,1 @@
-window.addEventListener("load", function () {
-    const loader = document.querySelector(".yuklen")
-    loader.className += " gizli"
-    console.log("Website loaded.")
-});
+window.addEventListener("load",function(){document.querySelector(".yuklen").className+=" gizli",console.log("Website loaded.")});
