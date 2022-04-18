@@ -1,3 +1,2 @@
-# Thats for discord webhook messaging
-You can copy and, you can use it free no credits needed
+#Discord webhook messaging
 # Just html lol.
